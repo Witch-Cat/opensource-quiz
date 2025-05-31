@@ -1,6 +1,7 @@
 # Quiz Generator (Learn Quicker & Better)
 This repository was created to facilitate the quick generation of quizzes,
 aiming to enhance efficiency in learning and teaching within the educational sector.
+You can use all the code, it's free and helpfull i hope !
 
 ```
 1. Download the index.html code
@@ -24,3 +25,6 @@ Here is the code to modify to integrate the questions and answers:
 Copy HERE all the index.html code
 "
 ```
+
+Preview of the website : [HERE](https://witch-cat.github.io/quiz-generator/)
+
